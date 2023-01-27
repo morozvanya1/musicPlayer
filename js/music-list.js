@@ -33,6 +33,6 @@ let allMusic = [
         name: "Шенген",
         artist: "LIL KRYSTALLL",
         img: "06-big",
-        src: "lil_shena"
+        src: "lil_shen"
     }
 ]
