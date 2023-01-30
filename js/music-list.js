@@ -34,5 +34,23 @@ let allMusic = [
         artist: "LIL KRYSTALLL",
         img: "06-big",
         src: "lil_shen"
+    },
+    {
+        name: "Патек",
+        artist: "LIL KRYSTALLL",
+        img: "07-big",
+        src: "Патек"
+    },
+    {
+        name: "Крутая",
+        artist: "LIL KRYSTALLL",
+        img: "08-big",
+        src: "Крутая"
+    },
+    {
+        name: "Calm Down",
+        artist: "Rema",
+        img: "09-big",
+        src: "Calm"
     }
 ]

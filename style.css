@@ -235,7 +235,7 @@ body {
 
 .music-list ul {
     margin: 10px 0;
-    max-height: 260px;
+    max-height: 480px;
     overflow-y: auto;
 }
 

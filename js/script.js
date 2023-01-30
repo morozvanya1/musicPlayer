@@ -158,7 +158,7 @@ const ulTag = wrapper.querySelector("ul");
 for (let i = 0; i < allMusic.length; i++) {
     let liTag = `<li li-index="${i + 1}">
                     <div class="row">
-                        <span>${allMusic[i].name}</span>
+                        <span><strong>${i}</strong> - '${allMusic[i].name}'</span>
                         <p>${allMusic[i].artist}</p>
                     </div>
                     <audio class="${allMusic[i].src}" src="songs/${allMusic[i].src}.mp3"></audio>
